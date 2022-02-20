@@ -27,7 +27,7 @@ public class MainActivity extends ListActivity {
             startActivity(new Intent(Intent.ACTION_VIEW , Uri.parse("http://artic.edu")));
             break;
         case 1:
-            startActivity(new Intent(Intent.ACTION_VIEW , Uri.parse("http://themagnificentmile.com")));
+            startActivity(new  Intent(Intent.ACTION_VIEW , Uri.parse("http://themagnificentmile.com")));
 
             break;
         case 2:
